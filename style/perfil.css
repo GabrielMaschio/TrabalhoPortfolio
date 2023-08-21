@@ -33,7 +33,7 @@ nav,
 nav {
     justify-content: space-around;
     align-items: center;
-    height: 12vh;
+    height: 10vh;
 }
 
 .nav-links {
@@ -82,6 +82,7 @@ section {
     align-items: center;
     gap: 5rem;
     height: 80vh;
+    margin-bottom: 7vh;
 }
 
 .profile-pic {
