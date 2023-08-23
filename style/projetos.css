@@ -33,7 +33,7 @@ nav,
 nav {
     justify-content: space-around;
     align-items: center;
-    height: 12vh;
+    height: 10vh;
 }
 
 .nav-links {
@@ -64,7 +64,7 @@ a:hover {
 
 /* SECTION */
 section {
-    padding-top: 4vh;
+    padding-top: 10vh;
     margin: 0 10rem;
     box-sizing: border-box;
     min-height: fit-content;
